@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
     background-color:  #FAF9F6;
+    font-family: "Montserrat", sans-serif;
 }
 /* header */
 .navbar {
@@ -98,6 +100,85 @@
     font-weight: bold;
     font-size: 13px;
     cursor: pointer;
+}
+.bag-counter #count-number {
+    background-color: #ff3f6c;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+}
+.item-container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.heading {
+    margin-bottom: 20px;
+    font-size: 22px;
+    color: #282c3f;
+}
+
+
+.row-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    background-color: #ffffff;
+    width: 220px;
+    border: 1px solid #eaeaec;
+    border-radius: 4px;
+    overflow: hidden;
+    padding: 10px;
+    background: #ffffff;
+}
+
+.card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.brand {
+    background-color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.title {
+    background-color: #ffffff;
+    font-size: 14px;
+    color: #535766;
+    margin: 5px 0;
+}
+
+.price {
+    background-color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    color: #282c3f;
+    margin-bottom: 10px;
+}
+
+.add-btn {
+    width: 100%;
+    background-color: #ff3f6c;
+    color: white;
+    border: none;
+    padding: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.add-btn:hover {
+    background-color: #e6355f;
 }
 
 /* footer */
