@@ -3,7 +3,7 @@
     padding: 0;
     background-color:  #FAF9F6;
 }
-
+/* header */
 .navbar {
     position: sticky; 
     top: 0;
@@ -65,17 +65,18 @@
     background-color: #ffffff;
 }
 
-.nav-action {
+.current {
+    background-color: #ffffff;
+    text-decoration: none;
+    color: #FF00FF;
     font-size: 13px;
     font-weight: bold;
-    color: #282c3f;
-    background-color: #ffffff;
-    cursor: pointer;
+    text-transform: uppercase;
 }
 
 .search {
     flex: 1;
-    max-width: 400px;
+    max-width: 300px;
     margin: 0 20px;
 }
 
@@ -100,7 +101,6 @@
 }
 
 /* footer */
-
 .footer-section {
     background-color: #232323;
     border-top: 1px solid #eaeaec;
