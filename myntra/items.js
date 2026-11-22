@@ -7,7 +7,7 @@ const productsList = [
         brand: "Levi's",
         title: "Slim Fit Denim Jacket",
         price: "Rs. 2499",
-        image: "myntra-clone\images\Slim Fit Denim Jacket.webp"
+        image: "images/Slim Fit Denim Jacket.webp"
     },
     {
         id: 102,
@@ -16,7 +16,7 @@ const productsList = [
         brand: "Nike",
         title: "Air Max Running Sneakers",
         price: "Rs. 4995",
-        image: "myntra-clone\images\Air Max Running Sneakers.avif"
+        image: "images/Air Max Running Sneakers.avif"
     },
     {
         id: 103,
@@ -25,7 +25,7 @@ const productsList = [
         brand: "Tommy Hilfiger",
         title: "Classic Polo Collar T-Shirt",
         price: "Rs. 1799",
-        image: "myntra-clone\images\Classic Polo Collar T-Shirt.webp"
+        image: "images/Classic Polo Collar T-Shirt.webp"
     },
     {
         id: 104,
@@ -34,7 +34,7 @@ const productsList = [
         brand: "Fossil",
         title: "Chronograph Leather Watch",
         price: "Rs. 6495",
-        image: "myntra-clone\images\Chronograph Leather Watch.webp"
+        image: "images/Chronograph Leather Watch.webp"
     },
 
     //women's-section
@@ -45,7 +45,7 @@ const productsList = [
         brand: "Zara",
         title: "Floral Summer Midi Dress",
         price: "Rs. 2290",
-        image: "myntra-clone\images\Floral Summer Midi Dress.webp"
+        image: "images/Floral Summer Midi Dress.webp"
     },
     {
         id: 202,
@@ -54,7 +54,7 @@ const productsList = [
         brand: "Mango",
         title: "Structured Faux Leather Tote",
         price: "Rs. 1890",
-        image: "myntra-clone\images\Structured Faux Leather Tote.avif"
+        image: "images/Structured Faux Leather Tote.avif"
     },
     {
         id: 203,
@@ -63,7 +63,7 @@ const productsList = [
         brand: "Biba",
         title: "Embroidered Anarkali Suit Set",
         price: "Rs. 3199",
-        image: "myntra-clone\images\Embroidered Anarkali Suit Set.webp"
+        image: "images/Embroidered Anarkali Suit Set.webp"
     },
     {
         id: 204,
@@ -72,7 +72,7 @@ const productsList = [
         brand: "Ray-Ban",
         title: "Retro Oversized Sunglasses",
         price: "Rs. 5490",
-        image: "myntra-clone\images\Retro Oversized Sunglasses.jpg"
+        image: "images/Retro Oversized Sunglasses.jpg"
     },
     //kids-section
     {
@@ -82,7 +82,7 @@ const productsList = [
         brand: "GAP Kids",
         title: "Colorblock Fleece Hoodie",
         price: "Rs. 1299",
-        image: "myntra-clone\images\Colorblock Fleece Hoodie.webp"
+        image: "images/Colorblock Fleece Hoodie.webp"
     },
     {
         id: 302,
@@ -91,7 +91,7 @@ const productsList = [
         brand: "United Colors of Benetton",
         title: "Denim Dungaree Shorts Set",
         price: "Rs. 1499",
-        image: "myntra-clone\images\Denim Dungaree Shorts Set.jpg"
+        image: "images/Denim Dungaree Shorts Set.jpg"
     },
     {
         id: 303,
@@ -100,7 +100,7 @@ const productsList = [
         brand: "Adidas Kids",
         title: "Velcro Strap Sports Shoes",
         price: "Rs. 1999",
-        image: "myntra-clone\images\Velcro Strap Sports Shoes.jpg"
+        image: "images/Velcro Strap Sports Shoes.jpg"
     },
     {
         id: 304,
@@ -109,6 +109,6 @@ const productsList = [
         brand: "Mothercare",
         title: "Pastel Cotton Graphic Tee",
         price: "Rs. 599",
-        image: "myntra-clone\images\Pastel Cotton Graphic Tee.jpg"
+        image: "images/Pastel Cotton Graphic Tee.jpg"
     }
 ];
